@@ -1,7 +1,6 @@
 #!/usr/bin/env bun
 /**
  * dead-letter-queue - Dead letter queue for failed message processing
- * Built with Zo Computer by The BookMaster
  */
 
 import { Command } from "commander";
